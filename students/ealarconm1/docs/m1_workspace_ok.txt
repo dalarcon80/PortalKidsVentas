@@ -1,0 +1,1 @@
+workspace: C\MinecraftShop\minecraft_shop_project
