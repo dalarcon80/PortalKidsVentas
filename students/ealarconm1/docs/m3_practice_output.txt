@@ -1,6 +1,6 @@
-product_id     name  price
-0          10  Pickaxe   19.9
-1          11   Shovel    9.5
-2          12      Axe   14.2
-3          13    Torch    2.0
-4          14   Shield   29.0
+   customer_id  name  age        city
+0            1  Alex   12  Blockville
+1            2  Bia    13    Redstone
+2            3   Cam   12  Ender City
+3            4   Dan   13  Blockville
+4            5   Ema   12  Ender City
