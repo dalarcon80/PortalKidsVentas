@@ -4,4 +4,4 @@ df = pd.read_csv(r'C:\Users\sarac\Ventas\PortalKidsVentas\students\ealarconm1\da
 
 print(df)
 
-print(f"Shape: df.shape")
+print("Shape:",df.shape)
